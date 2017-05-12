@@ -13,6 +13,7 @@ Techical Background:
 熟悉Tomcat，Nginx，Azure等部署方案
 熟悉JUnit，QUnit测试技术
 熟悉SaaS整套解决方案设计及实现
+了解机器深度学习, 熟悉Tensorflow应用
 
 Language Background:
 English: 在北美学习6年，工作5年，通过托福(TOEFL)，读写沟通均无障碍
